@@ -1,13 +1,13 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(135, 197, 218);
 }
 
 h1 {
-  background-color: green;
+  background-color: rgb(25, 215, 25);
   text-align: center;
 }
 
-div {
+.div {
   background-color: lightblue;
 }
 
